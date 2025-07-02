@@ -1,5 +1,5 @@
 MinhaApiRest
-API REST desenvolvida em C# com ASP.NET Core, usando banco de dados SQLite, ideal para fins didáticos e portfólio.
+API REST desenvolvida em C# com ASP.NET Core, usando banco de dados SQLite.
 
 ### 📌 Funcionalidades
 Esta API possui 3 endpoints principais:
