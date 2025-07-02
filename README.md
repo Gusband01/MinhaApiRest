@@ -54,7 +54,7 @@ SQLite (opcional para visualizar o banco)
 
 ### 🧭 Passos:
 
-git clone https://github.com/seu-usuario/MinhaApiRest.git
+git clone https://github.com/Gusband01/MinhaApiRest.git
 cd MinhaApiRest
 dotnet restore
 dotnet ef database update
