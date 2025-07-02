@@ -79,7 +79,7 @@ API pública ViaCEP
 ### 📂 Estrutura do Projeto
 MinhaApiRest/
 ├── Controllers/
-│   ├── OrdenarController.cs
+|   ├── OrdenarController.cs
 │   ├── MensagensController.cs
 │   └── CepController.cs
 ├── Data/
